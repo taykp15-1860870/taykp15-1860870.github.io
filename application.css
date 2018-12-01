@@ -1,0 +1,38 @@
+
+h2{
+    font-size: 40px;
+    font-family: "arial Black", sans-serif;
+    letter-spacing: 3px; 
+    font-stretch: extra-condensed;
+    color:#446d8a;
+    border:solid 1px;
+    padding:8px;
+    width:475px;
+    border-radius:9px;
+    text-transform: uppercase;
+}
+
+h3{
+    font-size: 15px;
+}
+
+body{
+    background-color: #ffffff;
+    font-family: sans-serif;
+    background-image:url(wavy-dots.png);
+    text-align: left;
+    color:#b4b3b5;
+    text-transform: uppercase;
+    font-size:15px;
+}
+
+legend{
+    font-weight: bold;
+    font-size: 23px;
+    color:#446d8a;
+}
+
+iframe{
+    float:right;
+    margin-top:-70px;
+}
